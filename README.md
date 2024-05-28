@@ -6,3 +6,13 @@ low pass filter arduino library based on the low pass filter tutorial by Curio R
 - [link to High Pass Filter Github Repo By Curio Res](https://github.com/curiores/ArduinoTutorials/tree/main/BasicFilters/ArduinoImplementations/HighPass)
 
 follow the example template to use it in your prefered way
+
+## How to Use the Library
+- Download download the library by clicking on the green Code button above (or clone it)
+
+- Move the downloaded library file to your Arduino library folder
+  > e.g on linux: ... home/Arduino/libraries/
+  >
+  > e.g on windows: ... Documents/Arduino/libraries/
+
+- you can follow example `adaptive_low_pass_filter_template.ino` code into your project and modify it to your taste.
